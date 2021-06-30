@@ -25,12 +25,7 @@ function setup() {
 	
 	
 	
-	rope1=new Rope(bob1.body,roof.body,100)
-	rope2=new Rope(bob2.body,roof.body,150)
-	rope3=new Rope(bob3.body,roof.body,200)
-	rope4=new Rope(bob4.body,roof.body,250)
-	rope5=new Rope(bob5.body,roof.body,300)
-
+	
 
 	
 
@@ -48,12 +43,7 @@ function draw() {
 	
 	
 	
- rope1.display();
- rope2.display();
- rope3.display();
- rope4.display();
- rope5.display();
-  
+
   
  
 
