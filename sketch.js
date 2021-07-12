@@ -4,7 +4,7 @@ const World = Matter.World;
 const Bodies = Matter.Bodies;
 const Body = Matter.Body;
 
-var rope1,rope2,rope3,rope4,rope5,roof;
+var roof;
 
 
 
